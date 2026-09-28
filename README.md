@@ -1,4 +1,4 @@
-# 👋 Hi, I'm 张帆
+# 👋 Hi, I'm afanfan
 
 ### Front-End Developer · Full-Stack Explorer · AI Agent Learner
 
