@@ -1,4 +1,4 @@
-# 👋 Hi, I'm afanfan
+# 👋 Hi, I'm fan
 
 ### Front-End Developer · Full-Stack Explorer · AI Agent Learner
 
